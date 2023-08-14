@@ -12,4 +12,4 @@ testpaths = [
 [tool.mypy]
 
 mypy_path = "src"
-ignore_missing_imports = true
+ignore_missing_imports = True
